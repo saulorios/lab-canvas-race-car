@@ -33,6 +33,9 @@ body button {
 }
 
 #game-board {
-    float: left;
+    /* float: left; */
     padding: 20px 0px;
 }
+/* #main-canvas {
+  display: none;
+} */
